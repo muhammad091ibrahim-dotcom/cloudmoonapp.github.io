@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Celeste.png",
+  "title": "Celeste",
+  "subTitle": "Precision Platformer / Difficult",
+  "desc": "ช่วย Madeline เอาชนะปีศาจภายในของเธอในระหว่างการเดินทางสู่ยอดเขา Celeste ในเกมแพลตฟอร์มที่แม่นยำสุดๆ นี้จากผู้สร้าง TowerFall เผชิญกับความท้าทายที่ทำด้วยมือหลายร้อยรายการ ค้นพบความลับที่ซับซ้อน และรวบรวมปริศนาของภูเขา",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Celeste-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Celeste-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Celeste-3.jpg"
+  ]
+}

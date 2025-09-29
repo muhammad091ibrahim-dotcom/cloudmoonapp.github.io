@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Resident_Evil_4.png",
+  "title": "Resident Evil 4",
+  "subTitle": "Horror / Action",
+  "desc": "Hayatta kalmak sadece başlangıç.<br><br>Raccoon City'deki biyolojik felaketten bu yana altı yıl geçti.<br>Olaydan kurtulanlardan biri olan Ajan Leon S. Kennedy, başkanın kaçırılan kızını kurtarmak için gönderilir.<br>Onu, yerel halkla ilgili bir şeylerin korkunç derecede yanlış olduğu uzak bir Avrupa köyüne kadar takip eder.<br>Ve hayat ve ölüm, terör ve katarsis'in kesiştiği bu cesur kurtarma ve yorucu korku hikayesinin perdesi kalkar.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-3.jpg"
+  ]
+}

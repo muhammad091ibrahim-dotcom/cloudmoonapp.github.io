@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Hollow_Knight.png",
+  "title": "Hollow Knight",
+  "subTitle": "Metroidvania / Souls-like",
+  "desc": "हॉलो नाइट में अपना रास्ता खुद बनाएं! कीड़े और नायकों के एक विशाल बर्बाद राज्य के माध्यम से एक महाकाव्य एक्शन एडवेंचर. मुड़ी हुई गुफाओं का अन्वेषण करें, दूषित जीवों से लड़ें और अजीब कीड़ों से दोस्ती करें, यह सब एक क्लासिक, हाथ से खींची गई 2डी शैली में है।",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-3.jpg"
+  ]
+}

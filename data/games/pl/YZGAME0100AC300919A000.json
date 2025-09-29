@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Firewatch.png",
+  "title": "Firewatch",
+  "subTitle": "Adventure / Atmospheric",
+  "desc": "Firewatch to jednoosobowa gra detektywistyczna z perspektywy pierwszej osoby, osadzona w dziczy Wyoming.<br><br>Jest rok 1989. Jesteś mężczyzną o imieniu Henry, który wycofał się ze swojego bałaganiarskiego życia, aby pracować jako strażnik pożarowy w dziczy Wyoming. Usytuowany wysoko na szczycie góry, twoim zadaniem jest szukanie dymu i utrzymywanie dziczy w bezpiecznym stanie. Szczególnie gorące, suche lato sprawiło, że wszyscy są na krawędzi. Twój przełożony Delilah jest dla ciebie dostępny przez cały czas za pośrednictwem małego, ręcznego radia — twój jedyny kontakt ze światem, który zostawiłeś za sobą. Ale kiedy coś dziwnego wyciągnie cię z wieży strażniczej i do lasu, będziesz eksplorować dzikie i nieznane środowisko, stawiając czoła pytaniom i podejmując decyzje, które mogą zbudować lub zniszczyć jedyny sensowny związek, jaki masz.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Firewatch-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Firewatch-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Firewatch-3.jpg"
+  ]
+}

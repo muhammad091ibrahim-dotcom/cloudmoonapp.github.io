@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/icon_Pokemon_Shield.jpg",
+  "title": "Pokémon Shield",
+  "subTitle": "Role playing / Simulation",
+  "desc": "Commencez votre aventure en tant que dresseur de Pokémon en choisissant l'un des trois nouveaux Pokémon partenaires : Ouistempo, Flambino ou Larméléon. Ensuite, partez en voyage dans la nouvelle région de Galar, où vous défierez les fauteurs de troubles de la Team Yell, tout en perçant le mystère derrière les Pokémon légendaires Zacian et Zamazenta ! Explorez la Zone sauvage, un vaste espace de terre où le joueur peut contrôler librement la caméra. Rejoignez jusqu'à trois autres joueurs en local ou en ligne dans les nouvelles batailles multijoueurs coopératives de Max Raid*, où les joueurs affronteront des Pokémon géants et super puissants connus sous le nom de Pokémon Dynamax.<br><br>Certains Pokémon peuvent même Gigamax pour acquérir un nouveau look et un puissant ensemble de mouvements G-Max. Mais être un champion, c'est plus que perfectionner vos compétences de combat : vous pouvez choisir vos propres vêtements et vous faire une nouvelle coiffure en visitant les magasins de la ville, afin de pouvoir être le dresseur que vous voulez être. Tout au long de votre voyage, vous rencontrerez de nouveaux Pokémon, ainsi que des Pokémon familiers qui auront l'air un peu différents dans leurs nouvelles formes de Galar. Pour une autre façon de monter de niveau vos Pokémon, attribuez-leur des Poké Jobs à accomplir, et pour le plaisir, vous pouvez également jouer avec vos Pokémon au Pokémon Camp !",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-3.jpg"
+  ]
+}

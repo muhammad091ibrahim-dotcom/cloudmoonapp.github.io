@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Resident_Evil_4.png",
+  "title": "Resident Evil 4",
+  "subTitle": "Horror / Action",
+  "desc": "Виживання - це лише початок.<br><br>Минуло шість років з моменту біологічної катастрофи в Раккун-Сіті.<br>Агент Леон С. Кеннеді, один з тих, хто вижив після інциденту, був відправлений для порятунку викраденої дочки президента.<br>Він відстежує її до віддаленого європейського села, де з місцевими жителями щось жахливо не так.<br>І завіса піднімається над цією історією сміливого порятунку та виснажливого жаху, де життя і смерть, терор і катарсис перетинаються.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-3.jpg"
+  ]
+}

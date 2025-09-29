@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Sudoku_Classic_2.png",
+  "title": "Sudoku Classic 2",
+  "subTitle": "Puzzle",
+  "desc": "कागज़ पर एक पेन के साथ लिखने की भावना और एक वीडियो गेम खेलने में आसानी के साथ अनुकूलन योग्य सुडोकू.<br>यह एक वीडियो गेम है, लेकिन आप इसे ऐसे खेल सकते हैं जैसे आप कागज पर एक कलम के साथ लिख रहे हैं.<br>आप अपनी पसंद के अनुसार सहायता कार्यों को अनुकूलित कर सकते हैं.<br><br>● सहायता कार्यों को अनुकूलित करें और अपनी पसंद की सेटिंग्स के साथ खेलें.<br><br>● खेल किसी भी समय, कहीं भी खेला जा सकता है, भले ही इसमें बहुत समय लगे.<br><br>● टच नियंत्रण समर्थित हैं.<br>टच नियंत्रण आकस्मिक रूप से खेलना आसान बनाते हैं.<br><br>● आसान, सामान्य और कठिन कठिनाई स्तरों में कुल 300 समस्याएं हैं.<br>तीन कठिनाई स्तरों में 300 समस्याएं हैं: आसान, सामान्य और कठिन.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Sudoku_Classic_2-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Sudoku_Classic_2-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Sudoku_Classic_2-3.jpg"
+  ]
+}

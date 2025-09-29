@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Hades.png",
+  "title": "Hades",
+  "subTitle": "Action Roguelike / Hack and Slash",
+  "desc": "Hades เป็นเกมแนวโร๊คไลค์แบบดันเจี้ยนที่ได้รับแรงบันดาลใจจากเทพเจ้า ซึ่งรวบรวมแง่มุมที่ดีที่สุดของเกมที่ได้รับการยกย่องจากนักวิจารณ์ของ Supergiant รวมถึงแอคชั่นที่รวดเร็วของ Bastion, บรรยากาศที่สมบูรณ์และเนื้อหาที่ลึกซึ้งของ Transistor และเนื้อเรื่องที่ขับเคลื่อนด้วยตัวละครของ Pyre",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hades-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hades-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hades-3.jpg"
+  ]
+}

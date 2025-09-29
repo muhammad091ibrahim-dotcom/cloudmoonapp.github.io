@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/icon_Pokemon_Shield.jpg",
+  "title": "Pokémon Shield",
+  "subTitle": "Role playing / Simulation",
+  "desc": "เริ่มต้นการผจญภัยของคุณในฐานะโปเกมอนเทรนเนอร์โดยเลือกหนึ่งในสามโปเกมอนคู่หูใหม่: Grookey, Scorbunny หรือ Sobble จากนั้นออกเดินทางในภูมิภาคใหม่ของ Galar ที่ซึ่งคุณจะได้ท้าทายผู้ก่อปัญหาจาก Team Yell ขณะที่ไขปริศนาเบื้องหลังโปเกมอนในตำนาน Zacian และ Zamazenta! สำรวจ Wild Area พื้นที่กว้างใหญ่ของดินแดนที่ผู้เล่นสามารถควบคุมกล้องได้อย่างอิสระ ร่วมทีมกับผู้เล่นอีกสามคนในพื้นที่หรือออนไลน์ใน Max Raid Battles* แบบผู้เล่นหลายคนแบบร่วมมือกันใหม่ ซึ่งผู้เล่นจะได้เผชิญหน้ากับโปเกมอนขนาดยักษ์และแข็งแกร่งเป็นพิเศษที่รู้จักกันในชื่อโปเกมอน Dynamax",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-3.jpg"
+  ]
+}

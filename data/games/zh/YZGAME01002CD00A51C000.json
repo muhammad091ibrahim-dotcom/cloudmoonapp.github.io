@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Baba_Is_You.png",
+  "title": "Baba Is You",
+  "subTitle": "Puzzle / Indie",
+  "desc": "《巴别塔》是一款屡获殊荣的解谜游戏，你可以在其中改变你正在玩的游戏规则。在每个关卡中，规则本身都以你可以互动的方块的形式存在；通过操纵它们，你可以改变关卡的工作方式，并引起令人惊讶、意想不到的互动！通过简单的推方块，你可以将自己变成一块石头，将草地变成危险的热障碍，甚至将你必须达到的目标变成完全不同的东西。",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-3.jpg"
+  ]
+}

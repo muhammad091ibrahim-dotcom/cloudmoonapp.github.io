@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Dead_Cells.png",
+  "title": "Dead Cells",
+  "subTitle": "Adventure / Action Roguelike",
+  "desc": "Dead Cells เป็นเกมแนวโร๊คไลท์, แพลตฟอร์มเมอร์แอคชั่นที่ได้รับแรงบันดาลใจจากเมทรอยด์วาเนีย คุณจะได้สำรวจปราสาทที่กว้างใหญ่และเปลี่ยนแปลงตลอดเวลา... หากคุณสามารถต่อสู้ผ่านผู้พิทักษ์ในการต่อสู้ 2 มิติแบบ souls-lite ได้ ไม่มีจุดบันทึก ฆ่า ตาย เรียนรู้ ทำซ้ำ<br><br>Dead Cells ให้คุณควบคุมการทดลองเล่นแร่แปรธาตุที่ล้มเหลวซึ่งพยายามหาว่าเกิดอะไรขึ้นบนเกาะที่กว้างใหญ่ เปลี่ยนแปลงตลอดเวลา และดูเหมือนจะถูกสาป เป็นอมตะแต่ก็พิการ ทางออกสุดท้ายของคุณคือการครอบครองร่างกายเพื่อเคลื่อนที่ สำรวจ... และต่อสู้<br><br>แม้ว่าคุณอาจเป็นอมตะ แต่ซากศพที่คุณครอบครองนั้นไม่เป็นเช่นนั้น ทุกครั้งที่โฮสต์ของคุณถูกทำลาย คุณจะถูกส่งกลับไปที่คุกใต้ดินเพื่อหาโฮสต์ใหม่และเริ่มต้นใหม่...",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-3.jpg"
+  ]
+}

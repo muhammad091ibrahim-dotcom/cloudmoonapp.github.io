@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Cuphead.png",
+  "title": "Cuphead",
+  "subTitle": "Difficult / Cartoon",
+  "desc": "《茶杯头》是一款经典的“奔跑与射击”动作游戏，主要集中在BOSS战上。受到20世纪30年代卡通片的启发，游戏中的视觉和听觉都使用那个时代的相同技术精心制作而成，即传统的手绘赛璐珞动画、水彩背景和原始爵士乐录音。<br><br>扮演茶杯头或马克杯人，穿越奇特的世界，获得新武器，学习强大的超级招式，并揭开隐藏的秘密，努力偿还你对魔鬼的债务！",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-3.jpg"
+  ]
+}

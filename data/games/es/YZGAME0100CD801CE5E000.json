@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Balatro.png",
+  "title": "Balatro",
+  "subTitle": "Card Game / Roguelike Deckbuilder",
+  "desc": "Balatro es un roguelike de construcción de mazos inspirado en el póker que se centra en crear poderosas sinergias y ganar a lo grande.<br><br>Combina manos de póker válidas con cartas de comodín únicas para crear sinergias y diversas construcciones. Gana suficientes fichas para vencer a los traicioneros blinds, todo mientras descubres manos y mazos de bonificación ocultos a medida que avanzas. Necesitarás todas las ventajas que puedas obtener para llegar al blind del jefe, superar la apuesta final y asegurar la victoria.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-3.jpg"
+  ]
+}

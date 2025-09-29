@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/icon_Terraria.png",
+  "title": "Terraria",
+  "subTitle": "Sandbox / Survival",
+  "desc": "Creuser, survivre, explorer, construire ! Tout est possible dans ce jeu d'aventure bourré d'action. Le monde est votre toile et le sol votre peinture.\nPrenez vos outils, et c'est parti ! Fabriquez des armes pour lutter contre toutes sortes d'ennemis. Creusez en profondeur pour trouver des accessoires, de l'argent et plein d'autres objets qui pourront vous être utiles. Partez à la recherche de matériaux pour fabriquer tout ce qu'il vous faut pour créer votre propre monde. Construisez une maison, un fort ou pourquoi pas un château. Des gens s'installeront et vendront peut-être même leurs services pour vous aider dans votre voyage.\nAttention, ce n'est pas tout, d'autres défis vous attendent... Êtes-vous prêt à vous retrousser les manches ?",
+  "images": [
+    "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/banner_pc_Terraria-1.jpg",
+    "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/banner_pc_Terraria-2.jpg",
+    "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/banner_pc_Terraria-3.jpg"
+  ]
+}

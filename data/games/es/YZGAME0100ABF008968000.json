@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/icon_Pokemon_Sword.jpg",
+  "title": "Pokémon Sword",
+  "subTitle": "Role playing / Simulation",
+  "desc": "Comienza tu aventura como entrenador Pokémon eligiendo uno de los tres nuevos Pokémon compañeros: Grookey, Scorbunny o Sobble. Luego, emprende un viaje por la nueva región de Galar, donde desafiarás a los alborotadores de Team Yell, ¡mientras desvelas el misterio detrás de los Pokémon legendarios Zacian y Zamazenta! Explora el Área Silvestre, un vasto espacio de tierra donde el jugador puede controlar libremente la cámara. Únete a hasta otros tres jugadores localmente o en línea en las nuevas batallas multijugador cooperativas de Max Raid*, donde los jugadores se enfrentarán a Pokémon gigantes y súper poderosos conocidos como Pokémon Dynamax.<br><br>Algunos Pokémon incluso pueden Gigantamax para obtener una nueva apariencia y un poderoso conjunto de movimientos G-Max. Pero ser un campeón es más que perfeccionar tus habilidades de batalla: puedes elegir tu propia ropa y hacerte un nuevo peinado mientras visitas las tiendas en la ciudad, ¡para que puedas ser el entrenador que quieres ser! A lo largo de tu viaje, te encontrarás con Pokémon recién descubiertos, así como con Pokémon familiares que se verán un poco diferentes en sus nuevas formas de Galar. Para otra forma de subir de nivel a tus Pokémon, asígnales Poké Jobs para completar, y por diversión, ¡incluso puedes jugar con tus Pokémon en el Campamento Pokémon!",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Sword-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Sword-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Sword-3.jpg"
+  ]
+}

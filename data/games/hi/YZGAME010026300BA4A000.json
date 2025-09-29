@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Slay_the_Spire.png",
+  "title": "Slay the Spire",
+  "subTitle": "Roguelike Deckbuilder / Card Game",
+  "desc": "हमने कार्ड गेम और रोगेलिक्स को मिलाकर सबसे अच्छा एकल-खिलाड़ी डेकबिल्डर बनाया जिसकी हम कल्पना कर सकते थे. एक अद्वितीय डेक बनाएं, अजीब जीवों से मिलें, अपार शक्ति के अवशेषों की खोज करें, और स्पायर को मार डालें!",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Slay_the_Spire-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Slay_the_Spire-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Slay_the_Spire-3.jpg"
+  ]
+}

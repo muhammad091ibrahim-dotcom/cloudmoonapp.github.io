@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Balatro.png",
+  "title": "Balatro",
+  "subTitle": "Card Game / Roguelike Deckbuilder",
+  "desc": "Balatro - це roguelike-конструктор колод, натхненний покером, який повністю зосереджений на створенні потужних синергій та великих виграшах.<br><br>Комбінуйте правильні руки в покері з унікальними картами Джокера, щоб створювати різноманітні синергії та білди. Заробляйте достатньо фішок, щоб перемогти підступні блайнди, і все це, відкриваючи приховані бонусні руки та колоди, коли ви просуваєтеся. Вам знадобиться будь-яка перевага, яку ви можете отримати, щоб дістатися до бос-блайнду, перемогти в кінцевому ante та забезпечити перемогу.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-3.jpg"
+  ]
+}

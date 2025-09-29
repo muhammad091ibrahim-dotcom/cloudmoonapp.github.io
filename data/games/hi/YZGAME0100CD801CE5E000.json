@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Balatro.png",
+  "title": "Balatro",
+  "subTitle": "Card Game / Roguelike Deckbuilder",
+  "desc": "बलाट्रो एक पोकर-प्रेरित रोगेलिक डेक-बिल्डिंग है जो शक्तिशाली तालमेल बनाने और बड़ी जीत पर केंद्रित है.<br><br>तालमेल और विविध बिल्ड बनाने के लिए अद्वितीय जोकर कार्ड के साथ वैध पोकर हाथों को मिलाएं. पर्याप्त चिप्स कमाएं ताकि आप आगे बढ़ सकें, जबकि आप छिपे हुए बोनस हाथों और डेक की खोज करते हैं. आपको बॉस ब्लाइंड तक पहुंचने, अंतिम शर्त को हराने और जीत हासिल करने के लिए हर उस लाभ की आवश्यकता होगी जो आप प्राप्त कर सकते हैं.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-3.jpg"
+  ]
+}

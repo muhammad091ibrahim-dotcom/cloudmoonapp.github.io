@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Baba_Is_You.png",
+  "title": "Baba Is You",
+  "subTitle": "Puzzle / Indie",
+  "desc": "Baba Is You to wielokrotnie nagradzana gra logiczna, w której możesz zmieniać zasady, według których grasz. W każdym poziomie same zasady są obecne jako bloki, z którymi możesz wchodzić w interakcje; manipulując nimi, możesz zmienić sposób działania poziomu i spowodować zaskakujące, nieoczekiwane interakcje! Za pomocą prostego pchania bloków możesz zamienić się w kamień, zamienić łaty trawy w niebezpiecznie gorące przeszkody, a nawet zmienić cel, który musisz osiągnąć, w coś zupełnie innego.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-3.jpg"
+  ]
+}

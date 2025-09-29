@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Cuphead.png",
+  "title": "Cuphead",
+  "subTitle": "Difficult / Cartoon",
+  "desc": "Cuphead — это классический экшен-платформер, который сильно сосредоточен на битвах с боссами. Вдохновленные мультфильмами 1930-х годов, визуальные эффекты и звук кропотливо созданы с использованием тех же техник той эпохи, т.е. традиционной, нарисованной от руки цел-анимации, акварельных фонов и оригинальных джазовых записей.<br><br>Играйте за Капхэда или Магмена, путешествуя по странным мирам, приобретая новое оружие, изучая мощные суперудары и открывая скрытые секреты, пока вы пытаетесь вернуть свой долг дьяволу!",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-3.jpg"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Balatro.png",
+  "title": "Balatro",
+  "subTitle": "Card Game / Roguelike Deckbuilder",
+  "desc": "Balatro to roguelike'owy budowniczy talii inspirowany pokerem, którego celem jest tworzenie potężnych synergii i wygrywanie wielkich sum.<br><br>Połącz prawidłowe ręce pokerowe z unikalnymi kartami Joker, aby stworzyć zróżnicowane synergie i buildy. Zdobywaj wystarczającą ilość żetonów, aby pokonać podstępne ciemne, a wszystko to podczas odkrywania ukrytych rąk bonusowych i talii w miarę postępów. Będziesz potrzebować każdej przewagi, jaką możesz zdobyć, aby dotrzeć do boss blind, pokonać ostateczną stawkę i zapewnić sobie zwycięstwo.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-3.jpg"
+  ]
+}

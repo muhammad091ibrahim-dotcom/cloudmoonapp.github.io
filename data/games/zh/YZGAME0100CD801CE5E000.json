@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Balatro.png",
+  "title": "Balatro",
+  "subTitle": "Card Game / Roguelike Deckbuilder",
+  "desc": "《巴拉特罗》是一款受扑克启发的Roguelike卡牌构建游戏，其核心是建立强大的协同效应并赢得大奖。<br><br>将有效的扑克手牌与独特的鬼牌结合起来，创造出各种协同效应和构筑。赚取足够的筹码来击败狡猾的盲注，同时在你前进的过程中发现隐藏的奖励手牌和牌组。你需要利用一切你能得到的优势来达到Boss盲注，击败最后的赌注并确保胜利。",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Balatro-3.jpg"
+  ]
+}

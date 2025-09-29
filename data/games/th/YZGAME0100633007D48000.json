@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Hollow_Knight.png",
+  "title": "Hollow Knight",
+  "subTitle": "Metroidvania / Souls-like",
+  "desc": "สร้างเส้นทางของคุณเองใน Hollow Knight! การผจญภัยแนวแอ็คชั่นที่ยิ่งใหญ่ในอาณาจักรแมลงและฮีโร่ที่ล่มสลายอันกว้างใหญ่ สำรวจถ้ำที่คดเคี้ยว ต่อสู้กับสิ่งมีชีวิตที่แปดเปื้อน และทำความรู้จักกับเหล่าแมลงที่แปลกประหลาด ทั้งหมดนี้ในรูปแบบ 2D คลาสสิกที่วาดด้วยมือ",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-3.jpg"
+  ]
+}

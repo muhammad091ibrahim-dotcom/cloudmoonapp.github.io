@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Resident_Evil_4.png",
+  "title": "Resident Evil 4",
+  "subTitle": "Horror / Action",
+  "desc": "การเอาชีวิตรอดเป็นเพียงจุดเริ่มต้น<br><br>หกปีผ่านไปนับตั้งแต่ภัยพิบัติทางชีวภาพใน Raccoon City<br>ตัวแทน Leon S. Kennedy หนึ่งในผู้รอดชีวิตจากเหตุการณ์ดังกล่าว ถูกส่งไปเพื่อช่วยเหลือลูกสาวที่ถูกลักพาตัวของประธานาธิบดี<br>เขาติดตามเธอไปยังหมู่บ้านยุโรปที่ห่างไกล ซึ่งมีบางอย่างผิดปกติอย่างร้ายแรงกับชาวบ้าน<br>และม่านก็เปิดขึ้นสำหรับเรื่องราวของการช่วยเหลือที่กล้าหาญและความสยองขวัญที่ท้าทายนี้ ซึ่งชีวิตและความตาย ความหวาดกลัว และความรู้สึกที่โล่งใจจากการได้ระบายอารมณ์มาบรรจบกัน",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-3.jpg"
+  ]
+}

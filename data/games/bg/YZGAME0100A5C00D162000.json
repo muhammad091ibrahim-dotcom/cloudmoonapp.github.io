@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Cuphead.png",
+  "title": "Cuphead",
+  "subTitle": "Difficult / Cartoon",
+  "desc": "Cuphead е класическа екшън игра, която се фокусира изключително върху битките с босове. Вдъхновени от анимационните филми от 30-те години на миналия век, визуалните и звуковите елементи са щателно създадени с помощта на същите техники от епохата, а именно традиционна, ръчно рисувана анимация, акварелни фонове и оригинални джаз записи.<br><br>Играйте като Cuphead или Mugman, докато преминавате през странни светове, придобивате нови оръжия, научавате мощни супер ходове и разкривате скрити тайни, докато се опитвате да изплатите дълга си към дявола!",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-3.jpg"
+  ]
+}

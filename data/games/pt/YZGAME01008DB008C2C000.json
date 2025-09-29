@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/icon_Pokemon_Shield.jpg",
+  "title": "Pokémon Shield",
+  "subTitle": "Role playing / Simulation",
+  "desc": "Comece sua aventura como um Treinador Pokémon escolhendo um dos três novos Pokémon parceiros: Grookey, Scorbunny ou Sobble. Em seguida, embarque em uma jornada na nova região de Galar, onde você desafiará os encrenqueiros da Equipe Yell, enquanto desvenda o mistério por trás dos Pokémon Lendários Zacian e Zamazenta! Explore a Área Selvagem, uma vasta extensão de terra onde o jogador pode controlar livremente a câmera. Junte-se a outros três jogadores localmente ou online nas novas Batalhas de Incursão Máxima cooperativas multiplayer* nas quais os jogadores enfrentarão Pokémon gigantescos e superfortes conhecidos como Pokémon Dynamax.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Shield-3.jpg"
+  ]
+}

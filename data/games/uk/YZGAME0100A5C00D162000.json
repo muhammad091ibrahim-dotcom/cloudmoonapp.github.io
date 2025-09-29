@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Cuphead.png",
+  "title": "Cuphead",
+  "subTitle": "Difficult / Cartoon",
+  "desc": "Cuphead - це класична гра-екшен 'біжи і стріляй', сильно зосереджена на битвах з босами. Натхненні мультфільмами 1930-х років, візуальні та звукові ефекти ретельно створені з використанням тих самих технік тієї епохи, а саме традиційної, намальованої вручну цел-анімації, акварельних фонів та оригінальних джазових записів.<br><br>Грайте за Капхеда або Магмена, подорожуючи дивними світами, здобуваючи нову зброю, вивчаючи потужні суперрухи та відкриваючи приховані секрети, намагаючись віддати свій борг дияволу!",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-3.jpg"
+  ]
+}

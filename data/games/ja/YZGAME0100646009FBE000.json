@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Dead_Cells.png",
+  "title": "Dead Cells",
+  "subTitle": "Adventure / Action Roguelike",
+  "desc": "『Dead Cells』は、メトロイドヴァニアにインスパイアされたローグライトアクションプラットフォーマーです。あなたは、2Dソウルズライク戦闘でその守護者たちを突破できると仮定して、広大で絶えず変化する城を探検します。チェックポイントはありません。倒して、死んで、学んで、繰り返す。<br><br>『Dead Cells』では、広大で、絶えず変化し、明らかに呪われた島で何が起こっているのかを解明しようとする失敗した錬金術実験を操作します。不死身でありながら麻痺しているあなたは、移動、探索…そして戦うために体を乗っ取ることが最後の手段です。<br><br>あなたは不死身かもしれませんが、あなたが所有している死体はそうではありません。ホストが破壊されるたびに、あなたは新しいホストを見つけて最初からやり直すためにダンジョンに送り返されます...",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-3.jpg"
+  ]
+}

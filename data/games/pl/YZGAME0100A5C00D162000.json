@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Cuphead.png",
+  "title": "Cuphead",
+  "subTitle": "Difficult / Cartoon",
+  "desc": "Cuphead to klasyczna gra akcji typu run and gun, mocno skupiona na walkach z bossami. Zainspirowana kreskówkami z lat 30. XX wieku, oprawa wizualna i dźwiękowa są pieczołowicie stworzone przy użyciu tych samych technik z tamtej epoki, tj. tradycyjnej, ręcznie rysowanej animacji celuloidowej, akwarelowych teł i oryginalnych nagrań jazzowych.<br><br>Graj jako Cuphead lub Mugman, przemierzając dziwne światy, zdobywając nowe bronie, ucząc się potężnych super ruchów i odkrywając ukryte sekrety, próbując spłacić swój dług wobec diabła!",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-3.jpg"
+  ]
+}

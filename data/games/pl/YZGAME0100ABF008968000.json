@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/icon_Pokemon_Sword.jpg",
+  "title": "Pokémon Sword",
+  "subTitle": "Role playing / Simulation",
+  "desc": "Rozpocznij swoją przygodę jako Trener Pokémonów, wybierając jednego z trzech nowych Pokémonów partnerów: Grookey, Scorbunny lub Sobble. Następnie wyrusz w podróż do nowego regionu Galar, gdzie będziesz rzucać wyzwanie awanturnikom z Team Yell, jednocześnie odkrywając tajemnicę kryjącą się za Legendarnymi Pokémonami Zacianem i Zamazentą! Odkrywaj Dziki Obszar, rozległą przestrzeń lądu, gdzie gracz może swobodnie kontrolować kamerę. Połącz siły z trzema innymi graczami lokalnie lub online w nowych kooperacyjnych bitwach dla wielu graczy Max Raid Battles*, w których gracze zmierzą się z gigantycznymi i super silnymi Pokémonami znanymi jako Dynamax Pokémon.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Sword-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Sword-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Pokémon_Sword-3.jpg"
+  ]
+}

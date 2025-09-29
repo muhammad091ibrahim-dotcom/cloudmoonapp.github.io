@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Dead_Cells.png",
+  "title": "Dead Cells",
+  "subTitle": "Adventure / Action Roguelike",
+  "desc": "Dead Cells es un juego de plataformas de acción roguelite, inspirado en metroidvania. Explorarás un castillo en constante expansión y cambio... asumiendo que eres capaz de abrirte camino a través de sus guardianes en un combate 2D souls-lite. No hay puntos de control. Mata, muere, aprende, repite.<br><br>Dead Cells te pone en control de un experimento de alquimia fallido que intenta descubrir qué está pasando en una isla en constante expansión, cambiante y aparentemente maldita. Inmortal pero paralizado, tu último recurso es tomar el control de los cuerpos para moverte, explorar... y luchar.<br><br>Aunque puedes ser inmortal, los cadáveres que posees no lo son. Cada vez que tu anfitrión es destruido, serás enviado de vuelta a la mazmorra para encontrar uno nuevo y empezar de nuevo...",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-3.jpg"
+  ]
+}

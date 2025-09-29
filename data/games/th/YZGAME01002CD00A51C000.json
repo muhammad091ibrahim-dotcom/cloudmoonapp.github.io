@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Baba_Is_You.png",
+  "title": "Baba Is You",
+  "subTitle": "Puzzle / Indie",
+  "desc": "Baba Is You เป็นเกมไขปริศนาที่ได้รับรางวัลซึ่งคุณสามารถเปลี่ยนกฎที่คุณเล่นได้ ในแต่ละด่าน กฎต่างๆ จะปรากฏเป็นบล็อกที่คุณสามารถโต้ตอบได้ เมื่อจัดการกับมัน คุณสามารถเปลี่ยนวิธีการทำงานของด่านและทำให้เกิดปฏิสัมพันธ์ที่น่าประหลาดใจและไม่คาดคิด! ด้วยการดันบล็อกง่ายๆ คุณสามารถเปลี่ยนตัวเองเป็นหิน เปลี่ยนหย่อมหญ้าให้กลายเป็นอุปสรรคที่ร้อนอันตราย และแม้แต่เปลี่ยนเป้าหมายที่คุณต้องทำสำเร็จให้กลายเป็นสิ่งอื่นไปเลย",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Baba_Is_You-3.jpg"
+  ]
+}

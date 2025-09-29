@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Hollow_Knight.png",
+  "title": "Hollow Knight",
+  "subTitle": "Metroidvania / Souls-like",
+  "desc": "Проложите свой собственный путь в Hollow Knight! Эпическое приключение-боевик в огромном разрушенном королевстве насекомых и героев. Исследуйте извилистые пещеры, сражайтесь с оскверненными существами и заводите дружбу с причудливыми жуками, и все это в классическом, нарисованном от руки 2D-стиле.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Hollow_Knight-3.jpg"
+  ]
+}

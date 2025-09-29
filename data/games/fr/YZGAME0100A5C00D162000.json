@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Cuphead.png",
+  "title": "Cuphead",
+  "subTitle": "Difficult / Cartoon",
+  "desc": "Cuphead est un jeu d'action classique de type 'run-and-gun' qui se concentre fortement sur les batailles de boss. Inspirés des dessins animés des années 1930, les visuels et l'audio sont méticuleusement créés en utilisant les mêmes techniques de l'époque, à savoir l'animation traditionnelle dessinée à la main, les arrière-plans à l'aquarelle et les enregistrements de jazz originaux.<br><br>Incarnez Cuphead ou Mugman en traversant des mondes étranges, en acquérant de nouvelles armes, en apprenant de puissants super mouvements et en découvrant des secrets cachés tout en essayant de rembourser votre dette au diable !",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-3.jpg"
+  ]
+}

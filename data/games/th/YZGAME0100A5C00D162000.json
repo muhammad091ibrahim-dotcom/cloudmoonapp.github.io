@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Cuphead.png",
+  "title": "Cuphead",
+  "subTitle": "Difficult / Cartoon",
+  "desc": "Cuphead เป็นเกมแนวแอคชั่น 'วิ่งและยิง' สุดคลาสสิกที่เน้นการต่อสู้กับบอสเป็นหลัก แรงบันดาลใจจากภาพยนตร์การ์ตูนยุค 1930 ทั้งภาพและเสียงถูกสร้างขึ้นอย่างพิถีพิถันโดยใช้เทคนิคเดียวกับยุคนั้น ได้แก่ แอนิเมชันเซลล์ที่วาดด้วยมือแบบดั้งเดิม พื้นหลังสีน้ำ และการบันทึกเสียงดนตรีแจ๊สต้นฉบับ<br><br>เล่นเป็น Cuphead หรือ Mugman ในการเดินทางผ่านโลกที่แปลกประหลาด รับอาวุธใหม่ เรียนรู้ท่าไม้ตายสุดยอดอันทรงพลัง และเปิดเผยความลับที่ซ่อนอยู่ เพื่อพยายามชดใช้หนี้ของคุณต่อปีศาจ!",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Cuphead-3.jpg"
+  ]
+}

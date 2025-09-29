@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Resident_Evil_4.png",
+  "title": "Resident Evil 4",
+  "subTitle": "Horror / Action",
+  "desc": "Przetrwanie to dopiero początek.<br><br>Sześć lat minęło od katastrofy biologicznej w Raccoon City.<br>Agent Leon S. Kennedy, jeden z ocalałych z incydentu, został wysłany, aby uratować porwaną córkę prezydenta.<br>Śledzi ją do odosobnionej europejskiej wioski, gdzie coś jest strasznie nie tak z mieszkańcami.<br>I podnosi się kurtyna na tę historię odważnego ratunku i wyczerpującego horroru, w której życie i śmierć, terror i katharsis przecinają się.",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Resident_Evil_4-3.jpg"
+  ]
+}

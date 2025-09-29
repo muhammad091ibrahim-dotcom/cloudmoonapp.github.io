@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/icon_Terraria.png",
+  "title": "Terraria",
+  "subTitle": "Sandbox / Survival",
+  "desc": "ขุด การต่อสู้ สำรวจ สร้าง ไม่มีสิ่งใดเป็นไปไม่ได้ในเกมแอ็คชั่นการผจญภัย โลกคือผ้าใบของคุณ และพื้นคือสีของคุณ\nหยิบเครื่องมือของคุณ และไปทำอาวุธที่จะปิดความหลากหลายของศัตรูใน Numerous biomes ขุดลึกไปใต้ดินเพื่อที่จะหาอุปกรณ์ เงิน และสิ่งมีประโยชน์อื่นๆ รวบรวมทรัพยากรที่จะสร้างทุกสิ่งที่ คุณต้องการทำเพื่อโลกด้วยตัวของคุณเอง สร้างบ้าน ป้อมปราการ หรือแม้แต่ประสาท ผู้คนจะย้ายไปอาศัยอยู่ที่นั่นและบางทีพวกเขาก็ขายเครื่องมือที่แตกต่างกันเพื่อช่วยคุณในการเดินทางของคุณ\nแต่จงระวัง มีแม้กระทั่งความท้าทายมากมายรอคุณอยู่... คุณจะรับภาระหน้าที่นี้ได้หรือไม่?",
+  "images": [
+    "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/banner_pc_Terraria-1.jpg",
+    "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/banner_pc_Terraria-2.jpg",
+    "https://cloudmoon-1305370474.cos.ap-singapore.myqcloud.com/cloudgame-icon/banner_pc_Terraria-3.jpg"
+  ]
+}

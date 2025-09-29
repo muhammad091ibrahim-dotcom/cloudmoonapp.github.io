@@ -1,0 +1,11 @@
+{
+  "icon": "https://cloudmoon.tos-ap-southeast-1.volces.com/icon_Dead_Cells.png",
+  "title": "Dead Cells",
+  "subTitle": "Adventure / Action Roguelike",
+  "desc": "《死亡细胞》是一款受银河战士恶魔城启发的Roguelite动作平台游戏。你将探索一个不断变化的庞大城堡...如果你能在2D的魂系战斗中打败它的守护者的话。没有存档点。杀戮，死亡，学习，重复。<br><br>《死亡细胞》让你控制一个失败的炼金术实验品，他试图弄清这个广阔、不断变化、看似被诅咒的岛屿上发生了什么。你是不朽的，但也是残废的，你最后的办法是占据尸体来移动，探索……和战斗。<br><br>虽然你可能是不朽的，但你所占据的宿主却不是。每当你的宿主被摧毁时，你就会被送回地牢去寻找一个新的宿主并重新开始...",
+  "images": [
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-1.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-2.jpg",
+    "https://cloudmoon.tos-ap-southeast-1.volces.com/banner_pc_Dead Cells-3.jpg"
+  ]
+}
